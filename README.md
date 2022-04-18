@@ -4,13 +4,18 @@
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/mark-zuck)
 
 ## Installation
-$ pkg update && pkg upgrade <br>
-$ pkg install python2 <br>
+$ termux-setup-storage <br>
+$ pkg update && upgrade <br>
+$ pkg install python <br>
 $ pkg install git <br>
-$ git clone https://github.com/Dicky-XD/zafi2 <br>
-$ cd zafi2 <br>
-$ pip2 install -r zona.zafi2 <br>
-$ python2 zafi2.py <br>
+$ pip install bs4 <br>
+$ pip install requests <br>
+$ pip install mechanize <br>
+$ pip install futures <br>
+$ pip install ipaddress <br>
+$ git clone https://github.com/Dicky-XD/MSF <br>
+$ cd MSF <br>
+$ python2 MSF.py <br>
 
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
