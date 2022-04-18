@@ -12,9 +12,10 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ pip install ipaddress
+
 $ git clone https://github.com/Dicky-XD/MSF  
 ```
-#### ⇨  Run Script
+ ⇨  Run Script
 ```
 $ cd MSF  
 $ python MSF.py 
