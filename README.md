@@ -1,14 +1,24 @@
 # MSF
 Multi Simple Force Tools
 
-## Installation
-$ pkg update && pkg upgrade <br>
-$ pkg install python <br>
-$ pkg install git <br>
-$ git clone https://github.com/Dicky-XD/MSF <br>
-$ cd MSF <br>
-$ pip2 install -r zona.zafi2 <br>
-$ python MSF.py <br>
+#### ⇨  Install Script Di Termux
+`###
+$ termux-setup-storage  
+$ pkg update && upgrade  
+$ pkg install python  
+$ pkg install git  
+$ pip install bs4  
+$ pip install requests  
+$ pip install mechanize  
+$ pip install futures  
+$ pip install ipaddress
+$ git clone https://github.com/Dicky-XD/MSF  
+```
+#### ⇨  Run Script
+```
+$ cd MSF  
+$ python MSF.py 
+```
 
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
