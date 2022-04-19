@@ -12,10 +12,10 @@ $ pip install bs4 <br>
 $ pip install requests <br>
 $ pip install mechanize <br>
 $ pip install futures <br>
-$ pip install ipaddress <br>
+$ pip install cython <br>
 $ git clone https://github.com/Dicky-XD/MSF <br>
 $ cd MSF <br>
-$ python2 MSF.py <br>
+$ python run.py <br>
 
 If you can't use this script or there is a bug in the script, please contact me
 #### contact me
