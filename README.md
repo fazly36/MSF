@@ -14,7 +14,7 @@ $ pip install mechanize <br>
 $ pip install futures <br>
 $ pip install cython <br>
 $ git clone https://github.com/Dicky-XD/MSF <br>
-$ cd MSF <br>
+$ cd cd $HOME/MSF <br>
 $ python run.py <br>
 
 If you can't use this script or there is a bug in the script, please contact me
