@@ -1,8 +1,4 @@
 # * JANGAN LUPA BINTANG NYA
-#
-#Terima Kasih ROMI AFRIZAL<br>
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://www.github.com/mark-zuck)
-
 ## Installation
 $ termux-setup-storage <br>
 $ pkg update && upgrade <br>
@@ -14,7 +10,7 @@ $ pip install mechanize <br>
 $ pip install futures <br>
 $ pip install cython <br>
 $ git clone https://github.com/Dicky-XD/MSF <br>
-$ cd cd $HOME/MSF <br>
+$ cd $HOME/MSF <br>
 $ python run.py <br>
 
 If you can't use this script or there is a bug in the script, please contact me
