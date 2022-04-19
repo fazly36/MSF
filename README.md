@@ -1,4 +1,5 @@
 # * JANGAN LUPA BINTANG NYA
+# * TIDAK SEMUA HP BISA INSTALL 
 ## Installation
 $ termux-setup-storage <br>
 $ pkg update && upgrade <br>
