@@ -8,6 +8,7 @@ $ pip install bs4 <br>
 $ pip install requests <br>
 $ pip install mechanize <br>
 $ pip install futures <br>
+$ pip install rich <br>
 $ pip install colorama <br>
 $ git clone https://github.com/Dicky-XD/MSF <br>
 $ cd MSF <br>
